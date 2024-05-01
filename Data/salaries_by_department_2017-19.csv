@@ -1,0 +1,201 @@
+﻿Department,Graduating year,Level of study,Average salary,Median salary,Number of graduates paid in £
+All departments,2017/18,PG,40789,34000,550
+All departments,2017/18,UG,36609,33000,335
+All departments,2018/19,PG,41123,35000,690
+All departments,2018/19,UG,38442,33500,325
+All departments,All,All,39773,34000,1900
+All departments,2017/18,All,39211,33000,885
+All departments,2018/19,All,40264,35000,1015
+All departments,All,PG,40975,35000,1240
+All departments,All,UG,37513,33000,660
+Accounting,All,PG,40937,39000,60
+Accounting,All,UG,40057,35000,60
+Anthropology,All,PG,31176,30000,15
+Anthropology,All,UG,28399,27000,30
+Economic History,All,PG,39394,35000,25
+Economic History,All,UG,38756,35500,40
+Economics,All,PG,54262,45500,40
+Economics,All,UG,44786,40000,110
+European Institute,All,PG,33364,31500,45
+Finance,All,PG,57302,50000,95
+Finance,All,UG,,,
+Gender Studies,All,PG,29267,27000,35
+Geography & Environment,All,PG,33588,33000,70
+Geography & Environment,All,UG,31920,28000,45
+Government,All,PG,34369,30000,75
+Government,All,UG,32399,28930,65
+Health Policy,All,PG,51365,42000,50
+International Development,All,PG,34382,30000,65
+International History,All,PG,33128,32000,40
+International History,All,UG,32912,30000,30
+International Relations,All,PG,40523,32500,55
+International Relations,All,UG,29364,29000,20
+Law,All,PG,45110,40000,65
+Law,All,UG,39458,44500,60
+Management,All,PG,42123,35000,160
+Management,All,UG,38061,33500,35
+Mathematics,All,PG,39342,38000,20
+Mathematics,All,UG,41222,35500,50
+Media & Communications,All,PG,31526,30000,60
+Methodology,All,PG,,,
+"Philosophy, Logic and Scientific Method",All,PG,33529,32000,15
+"Philosophy, Logic and Scientific Method",All,UG,39283,33375,30
+Psychological and Behavioural Science,All,PG,40584,33000,45
+School of Public Policy,All,PG,62806,68000,50
+Social Policy,All,PG,34873,30000,70
+Social Policy,All,UG,28682,28000,20
+Sociology,All,PG,37671,29550,65
+Sociology,All,UG,26125,25000,10
+Statistics,All,PG,43112,38000,25
+Statistics,All,UG,39090,35250,55
+Accounting,2017/18,PG,41000,36500,25
+Accounting,2017/18,UG,39882,38000,40
+Anthropology,2017/18,PG,,,
+Anthropology,2017/18,UG,28583,26000,15
+Economic History,2017/18,PG,39125,37500,10
+Economic History,2017/18,UG,38168,35500,20
+Economics,2017/18,PG,55125,48000,15
+Economics,2017/18,UG,42691,40000,45
+European Institute,2017/18,PG,36188,32000,25
+Finance,2017/18,PG,61067,50000,45
+Gender Studies,2017/18,PG,29281,25250,15
+Geography & Environment,2017/18,PG,34177,33000,30
+Geography & Environment,2017/18,UG,31652,30000,25
+Government,2017/18,PG,32102,30000,45
+Government,2017/18,UG,32556,29000,30
+Health Policy,2017/18,PG,49190,43000,20
+International Development,2017/18,PG,32989,30850,30
+International History,2017/18,PG,30684,30000,20
+International History,2017/18,UG,36111,30000,15
+International Relations,2017/18,PG,36941,30000,25
+International Relations,2017/18,UG,29811,30068,15
+Law,2017/18,PG,38867,32000,25
+Law,2017/18,UG,39971,43000,35
+Management,2017/18,PG,44410,36000,60
+Management,2017/18,UG,36059,33000,15
+Mathematics,2017/18,PG,,,
+Mathematics,2017/18,UG,37938,32000,25
+Media & Communications,2017/18,PG,32196,30000,30
+Methodology,2017/18,PG,,,
+"Philosophy, Logic and Scientific Method",2017/18,PG,,,
+"Philosophy, Logic and Scientific Method",2017/18,UG,34700,29500,10
+Psychological and Behavioural Science,2017/18,PG,35591,32000,20
+School of Public Policy,2017/18,PG,59478,60000,25
+Social Policy,2017/18,PG,33311,29000,30
+Social Policy,2017/18,UG,30868,29000,10
+Sociology,2017/18,PG,43760,32100,30
+Sociology,2017/18,UG,,,
+Statistics,2017/18,PG,48444,45500,10
+Statistics,2017/18,UG,39035,35000,25
+Accounting,2018/19,PG,40882,40000,30
+Accounting,2018/19,UG,40348,35000,25
+Anthropology,2018/19,PG,31273,30000,10
+Anthropology,2018/19,UG,28176,27600,15
+Economic History,2018/19,PG,39537,35000,15
+Economic History,2018/19,UG,39291,37500,20
+Economics,2018/19,PG,53661,45500,25
+Economics,2018/19,UG,46374,43020,60
+European Institute,2018/19,PG,30417,30000,25
+Finance,2018/19,PG,53913,50000,50
+Finance,2018/19,UG,,,
+Gender Studies,2018/19,PG,29253,28000,15
+Geography & Environment,2018/19,PG,33095,33000,35
+Geography & Environment,2018/19,UG,32214,28000,20
+Government,2018/19,PG,37557,31000,30
+Government,2018/19,UG,32246,28930,35
+Health Policy,2018/19,PG,53056,42000,25
+International Development,2018/19,PG,35382,30000,40
+International History,2018/19,PG,35450,33000,20
+International History,2018/19,UG,29913,29750,15
+International Relations,2018/19,PG,43097,33500,30
+International Relations,2018/19,UG,,,
+Law,2018/19,PG,49792,42000,35
+Law,2018/19,UG,38792,45000,25
+Management,2018/19,PG,40714,35000,100
+Management,2018/19,UG,40188,34000,15
+Mathematics,2018/19,PG,38308,38000,15
+Mathematics,2018/19,UG,44506,45250,25
+Media & Communications,2018/19,PG,30974,28250,35
+Methodology,2018/19,PG,,,
+"Philosophy, Logic and Scientific Method",2018/19,PG,32925,30000,10
+"Philosophy, Logic and Scientific Method",2018/19,UG,41829,37704,20
+Psychological and Behavioural Science,2018/19,PG,44978,35000,25
+School of Public Policy,2018/19,PG,65750,70000,25
+Social Policy,2018/19,PG,36034,32000,40
+Social Policy,2018/19,UG,25403,27500,10
+Sociology,2018/19,PG,32298,28500,35
+Sociology,2018/19,UG,,,
+Statistics,2018/19,PG,40113,35000,15
+Statistics,2018/19,UG,39136,37000,30
+Accounting,All,All,40486,36500,120
+Anthropology,All,All,29383,27200,50
+Economic History,All,All,38982,35000,65
+Economics,All,All,47283,42000,150
+European Institute,All,All,33364,31500,45
+Finance,All,All,56686,50000,100
+Gender Studies,All,All,29267,27000,35
+Geography & Environment,All,All,32933,31500,110
+Government,All,All,33467,30000,140
+Health Policy,All,All,51365,42000,50
+International Development,All,All,34382,30000,65
+International History,All,All,33032,30000,70
+International Relations,All,All,37658,31000,75
+Law,All,All,42306,42000,125
+Management,All,All,41428,35000,195
+Mathematics,All,All,40689,38000,65
+Media & Communications,All,All,31526,30000,60
+Methodology,All,All,,,
+"Philosophy, Logic and Scientific Method",All,All,37365,32000,40
+Psychological and Behavioural Science,All,All,40584,33000,45
+School of Public Policy,All,All,62806,68000,50
+Social Policy,All,All,33466,30000,90
+Sociology,All,All,36111,29000,75
+Statistics,All,All,40379,35500,80
+Accounting,2017/18,All,40346,37500,65
+Anthropology,2017/18,All,29214,27000,25
+Economic History,2017/18,All,38442,36000,30
+Economics,2017/18,All,45849,40000,65
+European Institute,2017/18,All,36188,32000,25
+Finance,2017/18,All,61067,50000,45
+Gender Studies,2017/18,All,29281,25250,15
+Geography & Environment,2017/18,All,33102,32500,55
+Government,2017/18,All,32291,30000,75
+Health Policy,2017/18,All,49190,43000,20
+International Development,2017/18,All,32989,30850,30
+International History,2017/18,All,33078,30000,35
+International Relations,2017/18,All,34127,30034,40
+Law,2017/18,All,39490,40000,60
+Management,2017/18,All,42590,35000,80
+Mathematics,2017/18,All,38667,32000,30
+Media & Communications,2017/18,All,32196,30000,30
+Methodology,2017/18,All,,,
+"Philosophy, Logic and Scientific Method",2017/18,All,34563,31000,15
+Psychological and Behavioural Science,2017/18,All,35591,32000,20
+School of Public Policy,2017/18,All,59478,60000,25
+Social Policy,2017/18,All,32596,29000,40
+Sociology,2017/18,All,40960,31000,35
+Statistics,2017/18,All,41602,35000,35
+Accounting,2018/19,All,40655,36000,55
+Anthropology,2018/19,All,29539,30000,25
+Economic History,2018/19,All,39391,35000,35
+Economics,2018/19,All,48346,45000,85
+European Institute,2018/19,All,30417,30000,25
+Finance,2018/19,All,52967,50000,55
+Gender Studies,2018/19,All,29253,28000,15
+Geography & Environment,2018/19,All,32776,30000,60
+Government,2018/19,All,34861,30000,65
+Health Policy,2018/19,All,53056,42000,25
+International Development,2018/19,All,35382,30000,40
+International History,2018/19,All,32989,31164,35
+International Relations,2018/19,All,41385,32000,35
+Law,2018/19,All,45078,45000,65
+Management,2018/19,All,40640,35000,115
+Mathematics,2018/19,All,42328,40000,35
+Media & Communications,2018/19,All,30974,28250,35
+Methodology,2018/19,All,,,
+"Philosophy, Logic and Scientific Method",2018/19,All,39089,35000,25
+Psychological and Behavioural Science,2018/19,All,44978,35000,25
+School of Public Policy,2018/19,All,65750,70000,25
+Social Policy,2018/19,All,34224,30000,45
+Sociology,2018/19,All,31758,28000,40
+Statistics,2018/19,All,39483,36000,45
