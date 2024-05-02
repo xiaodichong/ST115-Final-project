@@ -1,0 +1,16 @@
+{"twitter": {
+  "bearer_token": ""
+  },
+  "reddit": {
+    "app_id": "wRXYCQCHEIHMgGidrwqTyw",
+    "app_secret": "uawZBUJrPmrTSfzaE-lJRJr5P5T6Rg",
+    "username": "ESL6202",
+    "password": "V4p7@J92J2UNewY"
+  },
+  "finnhub": {
+    "api_key": ""
+  },
+  "open_weather": {
+  "api_key": ""
+  }
+}
